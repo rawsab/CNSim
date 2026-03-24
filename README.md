@@ -24,10 +24,15 @@ In a new terminal, run the web application:
 
 Then go to `localhost:8000` on your browser to use the tool.
 
+See the [Demo (Alpha)](https://youtu.be/_oITtijlbb8)
+
 ## Contributors
 
 - Rawsab Said
 - Amirreza Radjou
 
----
-See the [Demo (Alpha)](https://youtu.be/_oITtijlbb8)
+## Credits
+
+> This repository is based on **CNSim (Consensus Network Simulator)**, a discrete-event simulation framework whose Java core includes authorship notices for **Sotirios Liaskos** and the **Conceptual Modeling Group / Enterprise Systems Group at York University** (see `@author` tags under `CNSim/src/cmg/cnsim/`). Additional authorship is noted in source files.
+> 
+> The project was originally developed as **academic/research software** and later extended for **simulation and research** use. I am **Rawsab Said**, a **contributor** to this codebase. **Amirreza Radjou** led the prior academic/work integration.
